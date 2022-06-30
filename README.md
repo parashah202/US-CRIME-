@@ -7,3 +7,5 @@ For the accurate analysis, I have imported the census data of USA from 1980 to 2
 Then the crime incidents had been compared with the census data to determine the area which is most active in crime.
 
 For Presentation I have included Few slides explaining the meaning of homicides, and also some recommendations at the end.
+
+this work has been published on taleau Public and can be accessed at https://public.tableau.com/app/profile/parash3039/viz/HollywoodHomicidebyParashkumar_Individualwork/S1
